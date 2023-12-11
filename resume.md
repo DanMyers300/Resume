@@ -3,6 +3,7 @@ Daniel Myers
 Dallas, TX |
 Daniel.Myers.vae9r7@statefarm.com |
 (469) 847-9401
+
 ----------------------------------------
 
 Experience
@@ -23,20 +24,19 @@ As the sole Full Stack Developer for a groundbreaking project, I orchestrated th
 
 Key Accomplishments:
 
-    * Language Model Server Deployment:
-        Implemented a scalable Docker container hosting a large Language Model Server for advanced natural language processing and document augmentation.
+* Language Model Server Deployment:
+    * Implemented a scalable Docker container hosting a large Language Model Server for advanced natural language processing and document augmentation.
 
-    * Flask Front/Backend Development:
-        Designed and developed a responsive Flask application facilitating document ingestion into a Chroma Embeddings Database, showcasing proficiency in both front-end and back-end technologies.
+* Flask Front/Backend Development:
+    * Designed and developed a responsive Flask application facilitating document ingestion into a Chroma Embeddings Database, showcasing proficiency in both front-end and back-end technologies.
 
-    * Chroma Embeddings Database Integration:
-        Integrated a Chroma Embeddings Database efficiently into the system, establishing robust connections between the Flask application and the database.
+* Chroma Embeddings Database Integration:
+    * Integrated a Chroma Embeddings Database efficiently into the system, establishing robust connections between the Flask application and the database.
 
-    * Resource-Augmented Document Generation:
-        Pioneered resource-augmented document generation by feeding documents from the database into the Language Model Server, enhancing content quality and diversity.
-
-    * Solo Development and Full Stack Mastery:
-        Demonstrated autonomy and a comprehensive skill set as the sole Full Stack Developer, handling containerization, application logic, and ensuring a cohesive and efficient system.
+* Resource-Augmented Document Generation:
+    * Pioneered resource-augmented document generation by feeding documents from the database into the Language Model Server, enhancing content quality and diversity.
+* Solo Development and Full Stack Mastery:
+    * Demonstrated autonomy and a comprehensive skill set as the sole Full Stack Developer, handling containerization, application logic, and ensuring a cohesive and efficient system.
 
 **Avery Davis Tutoring:** *Freelance Web Deveoper* </br> 11/2023 - Present
 
