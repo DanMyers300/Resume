@@ -17,7 +17,7 @@ Experience
 Projects
 ----------------------------------------
 
-**Fort Worth Gasket and Supply:** *Fullstack Freelance Developer* </br> 04/2023 - Present
+**Fort Worth Gasket and Supply:** *Freelance Developer* </br> 04/2023 - Present
 
 * 
 
