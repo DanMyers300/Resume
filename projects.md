@@ -3,8 +3,15 @@
 ## Musework
 
 - ### Waterloo-Greenway chatbot
+Developed a SMS chatbot to enhance the patron experience at waterloo-greenway conservancy.
+Utilized AWS services to allow patrons to text a number on sign in the park and recieve information about the park.
+AWS handles the prompts and responses, AWS SNS to handle the notifications and AWS pinpoint for the SMS part. Utilizing lamba scripts in python to automate the monitoring and testing.
+[Waterloo-Greenway](https://waterloogreenway.org/)
 
 - ### Paleo-indian site
+Designed and developed NextJS components and layouts for an educational website used by TXDOT.
+Created a card flipping carousel used to show different tools and animals that would have been around in the paleo-indian period.
+[Card Project](https://cards.danmyers.net)
 
 ## FWGS
 
