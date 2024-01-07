@@ -77,37 +77,15 @@ Work in tandem with a senior software developer to create custom React component
 
 This project is a React component called `Cards` that displays a set of cards with images and text. It allows users to navigate through the cards using arrow keys, mouse clicks on arrow buttons, or swipe gestures. The cards are displayed in a container, and the visible cards are dynamically calculated based on the current selected index.
 
-#### Data Handling:
-- The component imports `cardData` and `textData` for card images and corresponding text.
-- The `calculateVisibleCardArray` function is used to determine which cards should be visible based on the current selected index.
+- **Data Handling:** Imports `cardData` and `textData`, calculates visible cards.
+- **State Management:** Uses React `useState` for `current` index and `length`.
+- **Navigation:** `nextSlide` and `prevSlide` functions, arrow keys for navigation.
+- **Interaction:** Arrow buttons styled with `classnames`, Enter key navigation.
+- **Card Rendering:** Dynamic classnames for flip effect on central card.
+- **Text Rendering:** Displays text based on the current index.
+- **Swipe Gesture:** Utilizes `framer-motion` for left/right navigation gestures.
+- **Accessibility:** Includes ARIA attributes for enhanced navigation and screen reader support.
 
-#### State Management:
-- The component uses the React `useState` hook to manage the current selected index (`current`) and keeps track of the total number of cards (`length`).
-
-#### Navigation:
-- Navigation between cards is handled by the `nextSlide` and `prevSlide` functions, which update the `current` index accordingly.
-- Arrow keys (left and right) trigger navigation, and the `handleArrowKey` function is responsible for handling these keyboard events.
-
-#### Keyboard and Mouse Interaction:
-- Arrow buttons (`MdKeyboardArrowLeft` and `MdKeyboardArrowRight`) trigger navigation and are styled using the `classnames` library.
-- The `handleEnterKey` function handles the Enter key press event, allowing navigation to the next card.
-- The container itself is a focusable element (`role="button"`, `tabIndex={0}`) to capture keyboard events.
-
-#### Card Rendering:
-- The visible cards are rendered inside the container using the `visibleCards` array.
-- Each card is represented as a pair of front and back images, and the classnames are dynamically assigned to achieve a flip effect on the central card (`index === 2`).
-
-#### Text Rendering:
-- Text data is rendered based on the current index, and only the active text is displayed.
-
-#### Swipe Gesture:
-- The component uses the `framer-motion` library to handle swipe gestures for navigating between cards.
-- The `motion.div` with drag properties allows users to swipe left or right to trigger the `prevSlide` or `nextSlide` functions.
-
-#### Accessibility:
-- The component includes accessibility features, such as the use of ARIA attributes (`role` and `tabIndex`) to enhance keyboard navigation and screen reader support.
-
-In summary, this React component provides an interactive and visually appealing way to navigate through a set of cards, combining keyboard, mouse, and swipe interactions for a seamless user experience.
 
 ### What went wrong / how to improve:
 
@@ -116,15 +94,10 @@ In summary, this React component provides an interactive and visually appealing 
 
 ---
 
-## FWGS
+## [Fort Worth Gasket and Supply](https://www.fortworthgasket.com/)
 
 ### Overview:
 
-Utilizing language models to create a document augmentation application.
 
-1. Extract items from a corpus of text using small, focused language models capable of NER.
-2. Utilize a large language model to perform RAG on the RFQ documents.
-3. Containerize the application for deployment on customer's hardware
-4. Design and develop a front end wrapper for the whole project for a nice user experience.
 
 ### What went wrong / how to improve:
