@@ -5,6 +5,7 @@
 ### Overview:
 
 - **Objective:** Provide information about park locations to patrons via a conversational bot implemented using AWS services.
+
 - **Technologies Used:**
   - **AWS Lex:** Natural Language Processing for understanding user messages.
   - **AWS Lambda:** Serverless function for handling message processing and interaction.
@@ -15,24 +16,23 @@
 ### Workflow:
 
 1. **User Interaction:**
-   - Patrons send messages to the AWS Pinpoint number.
+   - Messages sent to AWS Pinpoint.
 
 2. **Trigger Chain:**
-   - Pinpoint forwards user messages to SNS.
-   - SNS triggers a Lambda function.
+   - Pinpoint forwards messages to SNS.
+   - SNS triggers a Node.js Lambda function.
 
 3. **Lambda Function:**
-   - Written in base JS using Node.js.
-   - Utilizes AWS SDK to retrieve and parse user messages from a JSON file.
-   - Sends parsed messages to Lex bot using AWS SDK.
+   - Parses and sends user messages to Lex bot.
    - Receives Lex bot's response.
 
 4. **Response Handling:**
-   - Lambda invokes another function to send the Lex bot's response back to Pinpoint using the AWS SDK.
+   - Lambda invokes another function to send Lex bot's response back to Pinpoint.
 
 5. **Monitoring:**
-   - CloudWatch Logs monitor the Lambda function.
-   - CloudWatch alerts and notifications are set up for issue detection and prompt action.
+   - CloudWatch Logs monitor Lambda.
+   - CloudWatch alerts set up for issue detection.
+
 
 ### Example Conversation Flow:
 
