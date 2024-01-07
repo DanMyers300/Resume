@@ -48,7 +48,8 @@
 
 ### What went wrong / how to improve:
 
-   - Properly researching costs before telling the project manager that something can be done.
+   - Properly researching costs before telling the project manager that something can be done. I informed the PM early in the project that we could use a shortcode phone number but that ended up being exceedingly expensive and out of budget.
+   - Less reliance on a single platform for most of the application, this ended up not allowing the customer to change hosting platforms later when they wanted to
 
 ---
 
