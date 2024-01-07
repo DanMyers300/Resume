@@ -3,8 +3,7 @@ Daniel Myers
 Dallas, TX |
 Daniel.Myers.vae9r7@statefarm.com |
 (469) 847-9401
-
-----------------------------------------
+------------------------------------
 
 ## Experience
 
@@ -16,8 +15,8 @@ Daniel.Myers.vae9r7@statefarm.com |
     * Enhanced visitor experience through an AWS chatbot using AWS Lex.
     * Ensured cost-effectiveness and regulatory compliance for text messages.
     * Sole developer for the project, showcasing proficiency in AWS services.
-* NextJS Component Design for TXDOT Education Website:
-    * Spearheaded design of NextJS components for TXDOT's education website.
+* React Component Design for TXDOT Education Website:
+    * Implemented design of React components for TXDOT's education website.
     * Focused on the Paleoindian period of Texas, delivering engaging and informative content.
     * Demonstrated user-centric solutions and seamless integration with the TXDOT website.
 * Technical Consulting Expertise:
@@ -29,7 +28,7 @@ Daniel.Myers.vae9r7@statefarm.com |
 
 * Instructed swimming to children and young adults.
 * Oversaw a dynamic team of 10-15 swim instructors, ensuring high-quality lessons and customer satisfaction.
-* Applied technical expertise to streamline processes, implement efficient procedures, and automate tasks.
+* Applied technical expertise to streamline processes, implement efficient procedures, and automate customer service tasks.
 
 ## Projects
 
