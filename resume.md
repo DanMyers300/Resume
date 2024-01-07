@@ -50,11 +50,8 @@ Key Accomplishments:
 * Solo Development and Full Stack Mastery:
     * Demonstrated autonomy and a comprehensive skill set as the sole Full Stack Developer, handling containerization, application logic, and ensuring a cohesive and efficient system.
 
-**Avery Davis Tutoring:** *Freelance Web Deveoper* </br> 11/2023 - Present
-
 ## Skills
 
 **Technical:** Linux | Git-ops | CI/CD | AWS services | Docker | Salesforce</br>
-**Programming Languages:** Python | Javascript | Some Rust | Some C/C++</br>
 **Interpersonal:** Self Taught | Teamwork | Critial thinking | Communication</br>
 **Interests:** Language models | Open-source software | Automation | Hardware</br>
