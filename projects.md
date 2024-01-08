@@ -99,6 +99,6 @@ This project is a React component called `Cards` that displays a set of cards wi
 
 ### Overview:
 
-
+Develop a comprehensive artificial intelegence solution for handling client's data.
 
 ### What went wrong / how to improve:
